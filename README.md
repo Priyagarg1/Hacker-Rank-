@@ -1,4 +1,4 @@
-# Hacker-Rank-
+# Hacker-Rank C Programming
 Hacker rank problems
 # c-program-0
 hello world program of hacker rank
