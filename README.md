@@ -28,7 +28,6 @@ int main()
      char sen[80];
      scanf("%c",&ch);
      scanf("\n%s",&s);
-     scanf("\n");
      scanf("\n%[^\n]%*c",sen);
      printf("%c",ch);
      printf("\n%s",s);
