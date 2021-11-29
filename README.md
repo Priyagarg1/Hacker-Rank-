@@ -1,5 +1,5 @@
 # Hacker-Rank C Programming
-Hacker rank problems
+Hacker rank C problems
 
 
 
